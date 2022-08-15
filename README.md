@@ -8,9 +8,9 @@
 
 
 
-<!-- ## :paperclip: How to reach me:
+## :paperclip: How to reach me:
 
 <span>
 <a href="https://www.linkedin.com/in/soledad-petrino/" ><img width="5%" src="https://github.com/soledadpetrino/soledadpetrino/blob/main/logos/linkedin.png">
 <a href="mailto:soledadpetrino@gmail.com" ><img width="5%" src="https://github.com/soledadpetrino/soledadpetrino/blob/main/logos/gmail.png">
-</span> -->
+</span>
