@@ -1,3 +1,6 @@
+<p>
+  <code><img height="190px" width="790px" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif"></code> 
+</p>
 #### Hi 👋, I'm Soledad, Full Stack Developer from Argentina.
 ##### I am a biomedical engineer specializing in clinical engineering and have a master's degree in business administration. I have my own online sales venture for more than 13 years. I have been a private teacher for more than 6 years in the area of mathematics, physics and chemistry, I am in a volunteer to teach mathematics to low-income people who want to finish high school. I recently incorporated a business that designs and sells 3D printed biomodels for educational purposes. I always like to learn new things, that's why I decided to start Henry, because I love the IT world and I would love to work as a web developer in the future.
 
