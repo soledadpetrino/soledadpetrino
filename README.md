@@ -1,4 +1,4 @@
-### Hi there, I'm Soledad👋. Full Stack Developer from Argentina.
+#### Hi 👋, I'm Soledad, Full Stack Developer from Argentina.
 
 
 
