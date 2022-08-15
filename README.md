@@ -13,8 +13,8 @@ I am a biomedical engineer, specialized in clinical engineering and I am finishi
 
 <h3 align="left" style="margin-bottom: 20px;"> 💻 Proyects:</h3>
 
-<p>Proyecto grupal (Soy Henry): https://frontend-pf-g1.vercel.app/ | https://github.com/chuno-st/PF-G1-FRONTEND | https://github.com/chuno-st/PF-G1-BACKEND</p>
-<p>Proyecto individual (Soy Henry): https://github.com/soledadpetrino/ProyectoIndividual-Countries-SoledadPetrino</p>
+<p>Proyecto grupal final Bootcamp Henry - Agosto 2022: https://frontend-pf-g1.vercel.app/ | https://github.com/chuno-st/PF-G1-FRONTEND | https://github.com/chuno-st/PF-G1-BACKEND</p>
+<p>Proyecto individual Bootcamp Henry - Julio 2022: https://github.com/soledadpetrino/ProyectoIndividual-Countries-SoledadPetrino</p>
 
 
 
